@@ -9,4 +9,6 @@ This is an event management project backend which has the following prerequisite
 
 3.  My sql command line 8.0 CE
 
-4..  My sql workbench
+4.  My sql workbench
+
+    For running backend use command - npm run dev.
