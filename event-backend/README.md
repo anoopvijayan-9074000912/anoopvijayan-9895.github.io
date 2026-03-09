@@ -11,4 +11,4 @@ This is an event management project backend which has the following prerequisite
 
 4.  My sql workbench
 
-    For running backend use command - npm run dev.
+    For running backend use command in terminal - npm run dev.
