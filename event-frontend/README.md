@@ -8,7 +8,10 @@ This is an event management project which has been developed with front end flut
             flutter test
             sdk: flutter
 
- 3.   HTTP client for API calls
+ 3.    state management - provider
+   
+
+ 4.   HTTP client for API calls - dio
 
       For running frontend use command in terminal - flutter run -d chrome
 
