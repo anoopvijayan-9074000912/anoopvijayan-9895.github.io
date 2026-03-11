@@ -2,7 +2,7 @@ This is an event management project which has been developed with front end flut
  
 In pubspec.yaml file please include
 
-1.   Dependencies
+1.   Dependencies:
      flutter:
      sdk: Flutter
 
