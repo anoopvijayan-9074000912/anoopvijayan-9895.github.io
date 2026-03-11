@@ -6,7 +6,7 @@ In pubspec.yaml file please include
      flutter:
      sdk: Flutter
 
-2.   Dev_dependencies
+2.   Dev_dependencies:
             flutter test
             sdk: flutter
 
